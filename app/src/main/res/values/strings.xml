@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">aboba</string>
+
+    <string name="open_delayed_work_activity_button_text">Open sample with delayed work</string>
+    <string name="open_network_fetch_activity_button_text">Open sample with network fetch</string>
+
+    <string name="delayed_work_text_before">This text is about to be changed</string>
+    <string name="delayed_work_text_after">It is changed but why didn\'t you rotate the device?\nRotate to reset.</string>
+    <string name="delayed_work_text_after_rotate">It is changed and survived device rotation. Cool, right?\nRotate again to reset.</string>
+    <string name="delayed_work_button_text">Press and rotate device</string>
+    <string name="delayed_work_toast_text">%ds left</string>
+
+    <string name="network_fetch_button_text">Push me</string>
+    <string name="network_fetch_placeholder_text">Aboba text. Push the button.</string>
+    <string name="network_fetch_fetched_text">%s\n%s</string>
+    <string name="network_fetch_error_text">Oh no! An ewwow ( ╥ω╥ )\n%s</string>
+</resources>
